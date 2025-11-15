@@ -75,7 +75,7 @@ public class BookingServiceImpl implements BookingService {
         //Create the Booking
 
 
-        //TODO: calculate dynamic pricing
+        //calculate dynamic pricing
 
 
         Booking booking = Booking.builder()
